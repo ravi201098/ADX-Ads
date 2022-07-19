@@ -1,0 +1,24 @@
+{
+   "AppSetting":[
+      {
+         "id":"",
+         "app_version":1,
+         "app_link":"",
+         "ad_type":"AdMOB",
+         "admob_inter_counter":"1",
+         "ad_status":"on",
+         "admob_aap_id":"",
+         "admob_openad":"ca-app-pub-2130735776545360/8493085927",
+         "admob_inter":"ca-app-pub-2130735776545360/4215747807",
+         "admob_inter1":"ca-app-pub-2130735776545360/4215747807",
+         "admob_back_inter":"ca-app-pub-2130735776545360/4215747807",
+         "admob_back_inter1":"ca-app-pub-2130735776545360/4215747807",
+         "admob_banner":"ca-app-pub-2130735776545360/8346564507",
+         "admob_native":"ca-app-pub-2130735776545360/4553840913",
+         "admob_native_banner":"ca-app-pub-2130735776545360/4553840913",
+         "qureka_link":"",
+         "admobrewardedads":"",
+         "isSplash":"false"
+      }
+   ]
+}
